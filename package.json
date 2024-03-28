@@ -66,5 +66,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Yon Wayne"
+  "author": "Yon Wayne",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pricklyduplication15/boilerplate-npm.git"
+  },
+  "keywords": [
+    "testing_npm"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pricklyduplication15/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/pricklyduplication15/boilerplate-npm#readme"
 }
