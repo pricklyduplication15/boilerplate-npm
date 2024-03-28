@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
-  "author": "Yon"
+  "author": "Yon",
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "keywords": [],
+  "license": "ISC"
 }
