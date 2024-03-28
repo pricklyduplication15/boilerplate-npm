@@ -1,6 +1,5 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "foobar",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -20,6 +19,7 @@
     "url": "https://github.com/pricklyduplication15/boilerplate-npm/issues"
   },
   "homepage": "https://github.com/pricklyduplication15/boilerplate-npm#readme",
+  "author": "foobar",
   "version": "1.0.0",
   "devDependencies": {},
   "license": "ISC"
