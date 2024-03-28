@@ -18,9 +18,5 @@
   "bugs": {
     "url": "https://github.com/pricklyduplication15/boilerplate-npm/issues"
   },
-  "homepage": "https://bespoke-bonbon-7930af.netlify.app/",
-  "author": "foobar",
-  "version": "1.0.0",
-  "devDependencies": {},
-  "license": "ISC"
+  "author": "foobar"
 }
