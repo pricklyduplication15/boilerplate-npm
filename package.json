@@ -15,26 +15,11 @@
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
-  "homepage": {
-    "name": "fcc-learn-npm-package-json",
-    "dependencies": {
-      "express": "^4.14.0"
-    },
-    "main": "server.js",
-    "scripts": {
-      "start": "node server.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
-    },
-    "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
-    "bugs": {
-      "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
-    },
-    "homepage": "https://66055b459a4b3a21dec11f3d--bespoke-bonbon-7930af.netlify.app",
-    "version": "1.0.0",
-    "author": "yon_wayne",
-    "license": "ISC"
-  }
+  "homepage": "https://66055de298b1c121ab32e4ba--bespoke-bonbon-7930af.netlify.app",
+  "version": "1.0.0",
+  "author": "Yayne",
+  "license": "ISC",
+  "keywords": [
+    "json"
+  ]
 }
